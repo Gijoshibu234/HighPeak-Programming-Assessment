@@ -1,0 +1,9 @@
+Number of Employees:  4
+
+Selected goodies:
+Fitbit Plus : 7980
+Microwave Oven : 9800
+Alexa : 9999
+Digital Camera : 11101
+
+The difference between the chosen goodie with highest price and the lowest price is 3121
